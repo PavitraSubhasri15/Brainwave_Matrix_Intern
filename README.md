@@ -7,7 +7,7 @@
 [🔗 Go to Algorithm Section](#algorithm)  
 [🔗 Go to Conclusion Section](#conclusion)
 
-## Abstract
+[🔗 # Abstract]
 
 Fake news spreads misinformation and manipulates public opinion, making automated detection crucial. This project builds a machine learning model using Logistic Regression and TF-IDF vectorization to classify news articles as fake or real. The dataset consists of labeled real and fake news articles. The model is trained on preprocessed text data and optimized using GridSearchCV. Performance is evaluated based on accuracy and classification reports.
 
